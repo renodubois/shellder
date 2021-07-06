@@ -1,19 +1,3 @@
-**UNMAINTAINED**: I don't use MSYS2 anymore so I don't maintain this project
-anymore. If you want to use shellder, consider the alternatives below:
-
-1.  [powerlevel10k](https://github.com/romkatv/powerlevel10k)
-    - Lowest latency. Utilizes async tasks and gitstatusd.
-    - Only for ZSH
-    - Not suits with MSYS2 or Cygwin since it's a big shell scripts. (But who uses MSYS2/Cygwin while we have WSL2?)
-2.  [starship](https://starship.rs/)
-    - Higher latency than powerlevel10k, but still it's faster than most shell themes.
-    - Compatible with many shell environments (i.e. Powershell, bash, tcsh, fish, ...)
-    - No slowdown in MSYS2 or Cygwin since it's a Rust binary not a shell script.
-
-&nbsp;
-
---------
-
 &nbsp;
 
 <img align=left width=175px height=175px
